@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternetGan</string>
+    <string-array name="line">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
